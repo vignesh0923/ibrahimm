@@ -281,7 +281,7 @@ body {
  background-color: white;
 }
 .boxing p{
-  text-align: center;
+  text-align: justify;
 }
 .odoo-1{
   background-image: url(../../assets/img/svg/blob-scene-haikei.svg);
@@ -3233,7 +3233,8 @@ height: 100%;
   background-size: cover;
 }
 .webb p{
-  font-size: 17px!important;
+  text-align: justify;
+  font-size: 15px!important;
 }
 .odser{
   background: url(../../assets/img/service/rm222-mind-19.jpg);
@@ -7303,8 +7304,11 @@ Responsiveness Start
 padding:10px;
 }
 
+
+
 .btnn{
-  margin-left: 90px;
+  padding: 8px;
+  margin-left: 110px;
 }
 
 .skin-dark-footer h4{
@@ -7446,7 +7450,66 @@ margin-left: 20px;
 
 }
 
+
+.sec-title__title{
+  font-size: 2.5rem;
+}
+
+.row .secHeading-wrap .rd span{
+  padding: 15px;
+}
+
+.mt-lg-4 {
+  display: flex;
+  flex-direction: column;
+}
+
+.intr{
+  font-size: 30px
+}
+
+.ms-3 h5{
+  text-wrap: nowrap;
+}
+
+.di{
+  margin-top: 50px;
+}
+
 .fs-5{
   text-align: justify;
   padding-bottom: 20px;
+}
+.examples{
+  padding: 30px 0px 30px 0px;
+}
+
+.font--bold{
+  font-size: 33px;
+}
+.di .exloi-caption p{
+  font-size: 15px;
+}
+
+.lead{
+  text-align: justify;
+  font-size: 16px;
+}
+
+.plog{
+  height: 400px;
+}
+
+.bg-head h2{
+  font-size: 23px;
+}
+
+.org img {
+  width: 70%;
+}
+
+.ora{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
