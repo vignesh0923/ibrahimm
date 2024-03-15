@@ -42,6 +42,7 @@
     .row .services-one__single {
         max-width: 300px;
         width: 100%;
+        padding: 10px 20px 10px 20px;
     }
     .row .work-history-one__single {
         max-width: 300px;
@@ -504,6 +505,11 @@
         display: none;
     }
 
+    @media (max-width:380px) {
+        .col-xl-12 {
+          width: 65%;
+      }
+      }
 
     /**About Two**/
     .about-two__left {
@@ -887,7 +893,7 @@
     }
 
     .services-one__single {
-        max-width: 500px;
+        max-width: 0px;
         width: 100%;
         margin: 0 auto 30px;
     }
@@ -1682,7 +1688,7 @@
     }
 
     .services-one__single {
-        max-width: 500px;
+        max-width: 0px;
         width: 100%;
         margin: 0 auto 30px;
     }

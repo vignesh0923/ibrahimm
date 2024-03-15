@@ -1433,6 +1433,12 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
+
+@media (max-width:380px) {
+  .col-xl-12 {
+    width: 65%;
+}
+}
 @media (min-width: 1200px) {
   .col-xl {
     flex: 1 0 0%;

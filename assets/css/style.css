@@ -7295,9 +7295,13 @@ Responsiveness Start
 }/*# sourceMappingURL=style.css.map */
 
 
+
 @media (max-width:380px) {
   .sec-title__text{
     text-align: justify;
+}
+.col-xl-12{
+  width: 100%;
 }
 
 .mig {
@@ -7307,8 +7311,7 @@ padding:10px;
 
 
 .btnn{
-  padding: 8px;
-  margin-left: 110px;
+  margin-left: 90px;
 }
 
 .skin-dark-footer h4{
@@ -7448,6 +7451,13 @@ margin-left: 20px;
   width: 100%;
 }
 
+section {
+  padding: 40px 0 40px;
+  position: relative;
+}
+
+
+
 }
 
 
@@ -7512,4 +7522,9 @@ margin-left: 20px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.col-xl-12 {
+  flex: 0 0 auto;
+  width: 65%;
 }

@@ -346,9 +346,7 @@ button {
     font-weight: 600;
     margin-bottom: 19px;
 }
-.services-one__single{
-    min-height: 500px;
-}
+
 .image-layer{
     
     background-size: cover;
@@ -3125,7 +3123,7 @@ button {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        gap: 15px;
+        gap: 0px;
     }
 
     .page-header--case-single__wrapper p{
