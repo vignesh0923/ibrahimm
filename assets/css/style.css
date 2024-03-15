@@ -7299,6 +7299,14 @@ Responsiveness Start
     text-align: justify;
 }
 
+.mig {
+padding:10px;
+}
+
+.btnn{
+  margin-left: 90px;
+}
+
 .skin-dark-footer h4{
   padding: 10px 5px 10px 5px;
 }
@@ -7313,7 +7321,7 @@ Responsiveness Start
 }
 
 .fs-5 {
-  margin-top: 10px;
+  margin-top: 30px;
   font-size: 15px !important;
 }
 
@@ -7374,8 +7382,42 @@ margin: 0 auto;
   font-weight: 450;
 }
 
+.row-cols-1 > * {
+width: 90%;
+margin-bottom: 20px;
+margin-left: 20px;
+}
+
+.techh{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.row-cols-2 > * {
+  width: 70%;
+}
+
+.ps-3 {
+  padding: 0px;
+}
+
 .lead{
   font-size: 16px;
+}
+
+.require {
+ margin-left: 10px;
+ margin-right: 10px;
+ display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.py-1{
+  margin-top: 20px;
+  display: flex;
+  margin: 0 auto;
 }
 
 .container  .row .xl-heading{
@@ -7393,6 +7435,12 @@ margin: 0 auto;
 }
 
 .plog img{
+  width: 100%;
+}
+
+.hire{
+  display: flex;
+  flex-direction: column;
   width: 100%;
 }
 
