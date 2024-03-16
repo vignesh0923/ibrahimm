@@ -7296,7 +7296,7 @@ Responsiveness Start
 
 
 
-@media (max-width:380px) {
+@media (max-width:400px) {
   .sec-title__text{
     text-align: justify;
 }
@@ -7323,7 +7323,6 @@ padding:10px;
 }
 
 .fw-light {
-  text-align: justify;
   font-weight: 300 !important;
 }
 
@@ -7439,6 +7438,9 @@ margin-left: 20px;
 
 .plog{
   padding: 20px;
+  min-height: 680px;
+  max-height: 680px;
+
 }
 
 .plog img{
@@ -7455,8 +7457,6 @@ section {
   padding: 40px 0 40px;
   position: relative;
 }
-
-
 
 }
 

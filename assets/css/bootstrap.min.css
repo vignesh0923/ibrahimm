@@ -1434,9 +1434,15 @@ progress {
   }
 }
 
-@media (max-width:380px) {
-  .col-xl-12 {
-    width: 65%;
+@media (max-width:400px) {
+
+.abt{
+  min-width: 100%;
+}
+
+.mb-5{
+  display: flex;
+  flex-direction: column;
 }
 }
 @media (min-width: 1200px) {
@@ -7963,6 +7969,8 @@ fieldset:disabled .btn {
   margin-bottom: 1.5rem !important;
 }
 .mb-5 {
+    display: flex;
+    flex-direction: column;
   margin-bottom: 3rem !important;
 }
 .mb-auto {

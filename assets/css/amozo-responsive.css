@@ -28,7 +28,7 @@
 }
 
 
-@media (max-width:380px){
+@media (max-width:400px){
     .row .main-slider__title{
         font-size: 35px;
         line-height: 60px;

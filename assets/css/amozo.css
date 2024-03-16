@@ -3109,7 +3109,7 @@ button {
 }
 
 
-@media (max-width:380px) {
+@media (max-width:400px) {
     .about-one__left-img2 .overlay-content{
         border-radius: 20px;
     }
