@@ -7316,6 +7316,10 @@ Responsiveness Start
   font-size: 23px;
 }
 
+.py-5 .ap{
+  font-size: 22px;
+}
+
 .implement .odo-impl2{
   font-size: 23px;
 }
@@ -7340,12 +7344,24 @@ padding:10px;
   margin-left: 100px;
 }
 
+.py-5 .digik{
+  font-size: 20px;
+}
+
+.digiik img{
+  margin-left: 100px;
+}
+
 .skin-dark-footer h4{
   padding: 10px 5px 10px 5px;
 }
 
+.row .gidkk{
+  font-size: 20px;
+}
+
 .row .sec-title__title{
-  font-size: 26px;
+  font-size: 20px;
   text-align: center;
 }
 
