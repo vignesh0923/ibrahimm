@@ -7304,22 +7304,49 @@ Responsiveness Start
   width: 100%;
 }
 
+.odoi img{
+  width: 200px;
+  margin-left: 90px;
+} 
+
+.implement1 .odd-cust{
+  font-size: 27px;
+}
+.implement .odo-impl{
+  font-size: 23px;
+}
+
+.implement .odo-impl2{
+  font-size: 23px;
+}
+
 .mig {
 padding:10px;
 }
+ .py-1 .migg{
+  font-size: 27px;
+}
 
+.row .hireodoo {
+  font-size: 20px;
+}
+
+.exloi-caption .hireodoo{
+  font-size: 20px;
+}
 
 
 .btnn{
-  margin-left: 90px;
+  margin-left: 100px;
 }
 
 .skin-dark-footer h4{
   padding: 10px 5px 10px 5px;
 }
 
-.sec-title__title{
-  font-size: 22px;
+.row .sec-title__title{
+  font-size: 26px;
+  text-align: center;
 }
 
 .fw-light {
@@ -7339,6 +7366,10 @@ padding:10px;
 
 .fo{
   padding: 0px 10px 0px 10px;
+}
+
+.implement11 .pla {
+  font-size: 22px;
 }
 
 .plan img{
@@ -7458,6 +7489,7 @@ section {
   position: relative;
 }
 
+
 }
 
 
@@ -7526,5 +7558,5 @@ section {
 
 .col-xl-12 {
   flex: 0 0 auto;
-  width: 65%;
+  width: 100%;
 }

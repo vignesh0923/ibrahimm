@@ -3119,6 +3119,16 @@ button {
         object-fit: fill;
     }
 
+    .sec-title__tagline{
+        margin-bottom: 0px;
+    }
+
+    .sec-title{
+        margin-bottom: 0px;
+    }
+
+    
+
     .sec-title{
         display: flex;
         flex-direction: column;
